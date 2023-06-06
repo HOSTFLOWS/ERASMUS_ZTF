@@ -1,0 +1,2 @@
+0.02365111
+time        band    flux               fluxerr   zp     zpsys

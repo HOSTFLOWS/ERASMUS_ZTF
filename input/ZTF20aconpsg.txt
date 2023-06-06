@@ -1,0 +1,3 @@
+0.0742
+time        band    flux               fluxerr   zp     zpsys
+58723.398	ztfg	99.1744955231413	18.85756804203165	25.0	ab
